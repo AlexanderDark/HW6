@@ -42,7 +42,7 @@ public class GetUserByUsernameTest extends UserBaseTest {
             int userStatus = 10;
             String email = "nikt@yahoo.com";
             String firstName = "Nikola";
-            int id = 778;
+            int id = 95839869;
             String lastName = "Tesla";
             String password = "F=gvBsina";
             String phone = "+6054071015540";
